@@ -211,6 +211,7 @@ body{
     text-align: center;
     color: white;
     margin-bottom: 20px;
+    box-sizing: border-box;
 }
 .head p{
     color: white;
